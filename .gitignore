@@ -1,0 +1,37 @@
+# Carpetas compiladas (.NET)
+bin/
+obj/
+
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Dependencias de Node.js (React)
+node_modules/
+
+# Carpetas generadas de builds React
+build/
+dist/
+
+# Archivos secretos
+.env
+secrets.json
+appsettings.Development.json
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Paquetes NuGet descargados
+packages/
+
+# VS Code
+.vscode/
