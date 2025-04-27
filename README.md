@@ -1,1 +1,1 @@
-# cqrs-send-messages
+# MessagingManager
